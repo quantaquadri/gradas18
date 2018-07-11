@@ -500,10 +500,10 @@ footer h2 {
 ==================================================== */
 
 /*story section images*/
-.story-img-1{ background: url("../img/story_1.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); }
-.story-img-2{ background: url("../img/story_2.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); }
-.story-img-3{ background: url("../img/story_3.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); }
-.story-img-4{ background: url("../img/story_4.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); }
+/* .story-img-1{ background: url("../img/r.png") no-repeat scroll center center / cover rgba(0, 0, 0, 0); } */
+/* .story-img-2{ background: url("../img/story_2.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); } */
+/* .story-img-3{ background: url("../img/story_3.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); } */
+/* .story-img-4{ background: url("../img/story_4.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0); } */
 
 .story-img {
 	height: 14rem;
