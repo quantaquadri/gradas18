@@ -54,10 +54,10 @@ $(document).ready(function() {
     		transition: 'fade2',
     		transitionDuration: 4000,
     		slides: [
-    			{ src: "./img/portfolio_1.jpg" },
-    			{ src: "./img/portfolio_2.jpg" },
-    			{ src: "./img/portfolio_3.jpg" },
-    			{ src: "./img/portfolio_4.jpg" }
+    			{ src: "https://res.cloudinary.com/dzomirrk1/image/upload/v1531377220/Gradas18/portfolio_1.jpg" },
+    			{ src: "https://res.cloudinary.com/dzomirrk1/image/upload/v1531377218/Gradas18/portfolio_2.jpg" },
+    			{ src: "https://res.cloudinary.com/dzomirrk1/image/upload/v1531377220/Gradas18/portfolio_3.jpg" },
+    			{ src: "https://res.cloudinary.com/dzomirrk1/image/upload/v1531377232/Gradas18/portfolio_4.jpg" }
     		]
     	});
     }
